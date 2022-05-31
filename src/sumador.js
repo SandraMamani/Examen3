@@ -1,14 +1,20 @@
 class venta
 {
-  sumar(a, b) {
-    return a + b;
+ 
+
+  leerMontoApagar(monto)
+  {
+      return leerMontoApagar;
   }
 
   leermonto(monto)
   {
-    return monto;
+      return monto;
   }
 
+  sumar(leerMontoApagar,monto) {
+    return leerMontoApagar - monto ;
+  }
 }
 
 
