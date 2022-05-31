@@ -1,6 +1,5 @@
 class venta
 {
- 
 
   leerMontoApagar(monto)
   {
@@ -12,7 +11,7 @@ class venta
       return monto;
   }
 
-  sumar(leerMontoApagar,monto) {
+  restar(leerMontoApagar,monto) {
     return leerMontoApagar - monto ;
   }
 }

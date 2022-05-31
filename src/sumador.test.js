@@ -21,7 +21,5 @@ describe("monto venta" , () => {
   it("deberia restar los dos monto", () => {
     expect(venta.restar(leerMontoApagar(10),leermonto(20))).toEqual(10);
   });
-  
 
-
-})
+});
