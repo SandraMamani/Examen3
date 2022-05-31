@@ -1,5 +1,15 @@
-function sumar(a, b) {
-  return a + b;
+class venta
+{
+  sumar(a, b) {
+    return a + b;
+  }
+
+  leermonto(monto)
+  {
+    return monto;
+  }
+
 }
 
-export default sumar;
+
+export default venta;
